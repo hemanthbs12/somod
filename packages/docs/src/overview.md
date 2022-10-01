@@ -14,6 +14,7 @@ meta:
 Develop, Build, Deploy and Share your serverless applications with SOMOD.
 SOMOD provides a CLI toolset for complete serverless module lifecycle management. The SOMOD is an open-source CLI available as an [NPM package](https://www.npmjs.com/package/somod).
 
+TODO: Add infographic
 > ## Does serverless means no server at all? The answer is Yes and No.
 >
 > To run any web application, one needs a server comprised of a physical machine connected to the network and software services running in that machine to serve the incoming request. The cloud providers initially removed the overhead of maintaining the physical servers. But the maintenance and scaling of these virtual software servers is still an application owner's responsibility.
